@@ -190,7 +190,7 @@ Python3: [Get Python](https://www.python.org/downloads/)
 <!-- License -->
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/Ze-Austin/scissor/blob/main/LICENSE">LICENSE</a> for more information.
+Distributed under the MIT License. See <a href="[https://github.com/Ze-Austin/scissor/blob/main/LICENSE](https://github.com/Jessica-ovabor/JessiScissor/blob/main/LICENSE)">LICENSE</a> for more information.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
