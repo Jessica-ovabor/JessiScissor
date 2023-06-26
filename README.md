@@ -25,14 +25,14 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/Ze-Austin/scissor/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Jessica-ovabor/scissor/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#sample">View Demo</a>
     ·
-    <a href="https://github.com/Ze-Austin/scissor/issues">Report Bug</a>
+    <a href="https://github.com/Jessica-ovabor/JessiScissor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ze-Austin/scissor/issues">Request Feature</a>
+    <a href="https://github.com/Jessica-ovabor/JessiScissor/issues">Request Feature</a>
   </p>
 </div>
 
@@ -43,7 +43,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-scissor">About Scissor</a>
+      <a href="#about-JessiScissor">About Scissor</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -75,13 +75,16 @@
 ---
 
 <!-- About the Tool -->
-## About Scissor
+## About Cutit
 
-Scissor is a simple tool which makes URLs as short as possible, as "brief is the new black" in the age of social media.
 
-Scissor converts long URLs into easily sharable QR codes and short, customizable links.
+Cutit as the name implies is a url shortener shortener tool that combine the literal meanin of `cut` and `it` whuch represent a user url.
 
-This tool was built as a capstone project by <a href="https://www.github.com/Ze-Austin">Ze Austin</a>, a Backend Engineering student at <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a> who's learning to create magic with Python.
+it is a simple tool which makes URLs as short as possible, as "brief is the new oil" in the age of social media.
+
+Cutit converts long URLs into easily sharable QR codes and short, customizable links.
+
+Cutit is looking forward to shortening links with no payment attached
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -92,7 +95,10 @@ This tool was built as a capstone project by <a href="https://www.github.com/Ze-
 ![Jinja][jinja]
 ![HTML5][html5]
 ![CSS3][css3]
+![Bootstrap][bootsrap]
 ![SQLite][sqlite]
+
+
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -101,7 +107,9 @@ This tool was built as a capstone project by <a href="https://www.github.com/Ze-
 ## Lessons Learned
 
 Creating this tool helped to learn and practice:
-* Responsive Web Design
+* Responsive Web Design with HTML ,CSS  and Bootstrap
+* Caching
+* Limiting of request to prevent DOS attacks
 * URL Shortening
 * QR Code Generation
 * Debugging
@@ -112,6 +120,7 @@ Creating this tool helped to learn and practice:
 * User Authorization
 * Message Flashing
 * Documentation
+* Deployment using render.com
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -138,15 +147,15 @@ Python3: [Get Python](https://www.python.org/downloads/)
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/Ze-Austin/scissor.git
+   git clone https://github.com/Jessica-ovabor/Jessiscissor.git
    ```
 2. Activate the virtual environment
    ```sh
-   source scissor/bin/activate
+   env  JessiScissor/Scripts/Activate
    ```
 3. Install project packages
    ```sh
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 4. Run Flask
    ```sh
