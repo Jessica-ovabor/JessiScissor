@@ -200,7 +200,7 @@ Distributed under the MIT License. See <a href="https://github.com/Ze-Austin/sci
 
 Jessica ovabor - [@jovabor](https://twitter.com/Jessica-ovabor) - ovaborjessica85@gmail.com
 
-Project Link: [Scissor](https://github.com/Jessica-ovabor/JessiScissor)
+Project Link: [JessiScissor](https://github.com/Jessica-ovabor/JessiScissor)
 
 Live Link: [sciz.site](https://www.sciz.site)
 
@@ -242,4 +242,4 @@ This project was made possible by:
 [html5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [css3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
-![Screenshot_20230319_074442](https://github.com/Jessica-ovabor/JessiScissor/assets/74324460/e422caa7-adbc-4724-9abd-cce231d2f7b6)
+
