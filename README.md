@@ -95,7 +95,7 @@ Cutit is looking forward to shortening links with no payment attached
 ![Jinja][jinja]
 ![HTML5][html5]
 ![CSS3][css3]
-![Bootstrap][bootsrap]
+![Bootstrap][bootstrap]
 ![SQLite][sqlite]
 
 
@@ -172,7 +172,7 @@ Python3: [Get Python](https://www.python.org/downloads/)
 
 <br />
 
-[![Scissor Screenshot][scissor-screenshot]](https://github.com/Ze-Austin/scissor/blob/main/website/static/screenshots/scissor.png)
+[![Screenshot_20230319_074442](https://github.com/Jessica-ovabor/JessiScissor/assets/74324460/e422caa7-adbc-4724-9abd-cce231d2f7b6)
 
 <br/>
 
@@ -196,9 +196,9 @@ Distributed under the MIT License. See <a href="https://github.com/Ze-Austin/sci
 <!-- Contact -->
 ## Contact
 
-Dr Austin Wopara - [@Ze_Austin](https://twitter.com/Ze_Austin) - austinwopara@gmail.com
+Dr Austin Wopara - [@Ze_Austin](https://twitter.com/Jessica-ovabor) - ovaborjessica85@gmail.com
 
-Project Link: [Scissor](https://github.com/Ze-Austin/scissor)
+Project Link: [Scissor](https://github.com/Jessica-ovabor/JessiScissor)
 
 Live Link: [sciz.site](https://www.sciz.site)
 
@@ -245,3 +245,4 @@ This project was made possible by:
 [html5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [css3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+![Screenshot_20230319_074442](https://github.com/Jessica-ovabor/JessiScissor/assets/74324460/e422caa7-adbc-4724-9abd-cce231d2f7b6)
