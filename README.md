@@ -172,7 +172,8 @@ Python3: [Get Python](https://www.python.org/downloads/)
 
 <br />
 
-[![Screenshot_20230319_074442](https://github.com/Jessica-ovabor/JessiScissor/assets/74324460/e422caa7-adbc-4724-9abd-cce231d2f7b6)
+![Screenshot 2023-06-26 161724](https://github.com/Jessica-ovabor/JessiScissor/assets/74324460/5dc560e3-7ef4-41d3-b755-d1c4535a812f)
+0/e422caa7-adbc-4724-9abd-cce231d2f7b6)
 
 <br/>
 
