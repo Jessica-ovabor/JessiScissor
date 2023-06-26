@@ -173,11 +173,12 @@ Python3: [Get Python](https://www.python.org/downloads/)
 <br />
 
 ![Screenshot 2023-06-26 161724](https://github.com/Jessica-ovabor/JessiScissor/assets/74324460/5dc560e3-7ef4-41d3-b755-d1c4535a812f)
-0/e422caa7-adbc-4724-9abd-cce231d2f7b6)
+
 
 <br/>
 
-[![Dashboard Screenshot][dashboard-screenshot]](https://github.com/Ze-Austin/scissor/blob/main/website/static/screenshots/dashboard.png)
+![Screenshot 2023-06-26 162814](https://github.com/Jessica-ovabor/JessiScissor/assets/74324460/7e652f72-888d-4e56-94f7-f994be96bea1)
+
 
 <br/>
 
