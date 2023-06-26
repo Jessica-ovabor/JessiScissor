@@ -198,7 +198,7 @@ Distributed under the MIT License. See <a href="https://github.com/Ze-Austin/sci
 <!-- Contact -->
 ## Contact
 
-Dr Austin Wopara - [@Ze_Austin](https://twitter.com/Jessica-ovabor) - ovaborjessica85@gmail.com
+Jessica ovabor - [@jovabor](https://twitter.com/Jessica-ovabor) - ovaborjessica85@gmail.com
 
 Project Link: [Scissor](https://github.com/Jessica-ovabor/JessiScissor)
 
@@ -213,11 +213,8 @@ Live Link: [sciz.site](https://www.sciz.site)
 
 This project was made possible by:
 
-* [AltSchool Africa School of Engineering](https://altschoolafrica.com/schools/engineering)
-* [Caleb Emelike's Flask Lessons](https://github.com/CalebEmelike)
 * [My AltSchool Python Repo](https://github.com/Ze-Austin/altschool-python)
 * [GitHub Student Pack](https://education.github.com/globalcampus/student)
-* [namecheap](https://www.namecheap.com)
 * [Othneil Drew's README Template](https://github.com/othneildrew/Best-README-Template)
 * [Ileriayo's Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 * [Stack Overflow](https://stackoverflow.com/)
@@ -227,20 +224,18 @@ This project was made possible by:
 ---
 
 <!-- Markdown Links & Images -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ze-Austin/scissor.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ze-Austin/scissor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ze-Austin/scissor.svg?style=for-the-badge
-[forks-url]: https://github.com/Ze-Austin/scissor/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ze-Austin/scissor.svg?style=for-the-badge
-[stars-url]: https://github.com/Ze-Austin/scissor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ze-Austin/scissor.svg?style=for-the-badge
-[issues-url]: https://github.com/Ze-Austin/scissorissues
-[license-shield]: https://img.shields.io/github/license/Ze-Austin/scissor.svg?style=for-the-badge
-[license-url]: https://github.com/Ze-Austin/scissor/blob/main/LICENSE.txt
-[twitter-shield]: https://img.shields.io/badge/-@ze_austin-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ze_austin
-[twitter-url]: https://twitter.com/ze_austin
-[scissor-screenshot]: website/static/screenshots/scissor.png
-[dashboard-screenshot]: website/static/screenshots/dashboard.png
+[contributors-shield]: https://img.shields.io/github/contributors/Jessica-ovabor/JessiScissor.svg?style=for-the-badge
+[contributors-url]: https://github.com/Jessica-ovabor/JessiScissor/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Jessica-ovabor/JessiScissor.svg?style=for-the-badge
+[forks-url]: https://github.com/Jessica-ovabor/JessiScissor/network/members
+[stars-shield]: https://img.shields.io/github/stars/Jessica-ovabor/cJessiScissor.svg?style=for-the-badge
+[stars-url]: https://github.com/Jessica-ovabor/JessiScissor/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Jessica-ovabor/JessiScissor.svg?style=for-the-badge
+[issues-url]: https://github.com/Jessica-ovabor/JessiScissor/issues
+[license-shield]: https://img.shields.io/github/license/Jesssica-ovabor/JessiScissor.svg?style=for-the-badge
+[license-url]: https://github.com/Jessica-ovabor/JessiScissor/blob/main/LICENSE.txt
+[twitter-shield]: https://img.shields.io/badge/-@jovabor-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/jovabor
+[twitter-url]: https://twitter.com/jovabor
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [jinja]: https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black
