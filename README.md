@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://sciz.site">
-    <img src="app/static/img/jbg.jbg" alt="Logo" width="90%" height="30%">
+    <img src="app/static/img/jlogo-1.png" alt="Logo" width="90%" height="30%">
   </a>
 </div>
 
