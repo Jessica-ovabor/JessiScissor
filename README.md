@@ -78,7 +78,7 @@
 ## About Cutit
 
 
-Cutit as the name implies is a url shortener shortener tool that combine the literal meanin of `cut` and `it` whuch represent a user url.
+Cutit as the name implies is a url shortener shortener tool that combine the literal meaning of `cut` to remove or clear in the case of this project it removes long url and  `it`represent a the action taken after it has been shorten.
 
 it is a simple tool which makes URLs as short as possible, as "brief is the new oil" in the age of social media.
 
