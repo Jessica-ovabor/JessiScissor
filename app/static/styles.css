@@ -1,0 +1,330 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/*footer*/
+footer{
+    background: #F5F5F5;
+    padding:20px 0;
+    width:100% !important;
+    position:absolute !important;
+    margin:0
+    
+}
+.container{
+    padding: 0;
+    text-align: left;
+}
+.single-box p{
+    color: black;
+    font-size: 10px;
+    line-height:1.8;
+}
+.single-box h3{
+   
+    font-size: 10px;
+    color: #fff;
+}
+.single-box ul{
+    list-style: none;
+    padding: 0;
+
+}
+.single-box ul li a{
+    margin-bottom: 10px;
+    font-size: 10px;
+    color: black;
+    line-height: 1.8;
+    text-decoration: none;
+    
+}
+
+.single-box h3{
+    font-size: 20px;
+    font-weight: 100;
+    color: #f0b30f;
+
+}
+.social{
+    font-size: 100px;
+    text-align: center;
+    fill: black;
+    margin-top:10px;
+    transition: all 0.5s ease-in-out;
+}
+/*responsiveness phone mockup*/
+@media only screen and (max-width:350px) {
+    .header-image{
+       width:100%;
+    }
+
+    
+}
+@media only screen  and (min-width:992px){
+    .header-image{
+        width:100%;
+        
+    }
+    
+
+}
+
+
+.card-box{
+    display: flex;
+    justify-content: center;
+}
+/*home page*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+:root{
+    --main-color:#f0b30f;
+}
+.theme-text{
+    color:var(--main-color);
+}
+.nav{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),/*#1C4B82;*/#0A1828;
+}
+.navbar-brand{
+    color:var(--main-color)!important
+}
+/*section-header*/
+.hero-header{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),/*#1C4B82;*/#0A1828;
+    padding: 20px 0;
+  
+    margin: 0;
+    background-size: cover;
+    background-position: bottom center;
+}
+
+a {
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#747e74;
+    margin:0;
+}
+
+.header-hero-content .text{
+
+    margin-top:5px;
+}
+.header-hero-content ul{
+    list-style-type: none;
+    margin-top: 5px;
+}
+
+/* responsive mode */
+
+@media only screen and (max-width: 576px) {
+    .header-hero-content{
+        padding: 0px 12px;
+    }
+
+    .header-image{
+        display: flex;
+        justify-content: center;
+    }
+
+    .header-image img{
+        width: 30%;
+    }
+    footer{
+        padding-left:12px;
+    }
+}
+
+/*------all button---*/
+.main-btn{
+    display:inline-block;
+    padding:0 25px;
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 55px;
+    border:0px;
+    border-radius:5px;
+    background-color: #637ae4;
+    color: #fff;
+
+}
+.main-btn:hover{
+    background-color: rgba(8,152,231,.7);
+    color: #fff;
+    border-color: transparent;
+}
+.header-hero-content .demo-btn{
+    position: relative;
+    margin-left: 10px;
+   
+}
+ .btn-logout{
+    background-color:#ff1414d9;
+    border-radius: 5px;
+    margin:2px;
+    border:0;
+}
+.btn-block{
+    background-color: #f0b30f;
+}
+/*---all animation--*/
+@keyframes bounceTop-1{
+    0%,100%{
+        transform:translateY(-30px);
+        opacity: 1;
+
+    }
+    50%{
+        transform: translateX(0px);
+    }
+}
+@keyframes animation-1{
+    0%{
+        transform:scale(1);
+        opacity: 1;
+
+    }
+    50%{
+        transform: scale(1.2);
+    }
+    100%{
+        transform: scale(1);
+    }
+    
+}
+/*section-header*/
+.header-image{
+    position: relative;
+    padding-top: 2px;
+    animation: bounceTop-1 3s ease infinite;
+}
+/*--shape--*/ 
+.hero-header .shape{
+    position: absolute;
+}
+.hero-header .shape.shape-1{
+    position: relative;
+    width: 35px;
+    height: 35px;
+    left: 200px;
+    top: 50%;
+    padding: 0;
+    border-radius: 50%;
+    background: #637ae4;
+    animation: animation-1 2s linear infinite;
+    } 
+
+.hero-header .shape.shape-2{
+        width: 45px;
+        height: 45px;
+        left: 130px;
+        bottom: 40px;
+        padding: 0;
+        border-radius: 50%;
+        background: #f0b30f;
+        animation: animation-1 2s linear infinite;
+        }
+.hero-header .shape.shape-3{
+            width: 15px;
+            height: 15px;
+            left: 26px;
+            bottom:25%;
+            padding: 0;
+            border-radius: 50%;
+            background: #ff846f;
+            animation: animation-1 2s linear infinite;
+            } 
+.hero-header .shape.shape-4{
+                width: 35px;
+                height: 35px;
+                left: 40%;
+                top:175px;
+                padding: 0;
+                border-radius: 50%;
+                background: #b1b1b1;
+                animation: animation-1 2s linear infinite;
+}
+.hero-header .shape.shape-5{
+    width: 20px;
+    height: 20px;
+    left: 50%;
+    bottom:20%;
+    padding: 0;
+    border-radius: 40%;
+    background: #c1c;
+    animation: animation-1 2s linear infinite;
+    }
+.hero-header .shape.shape-6{
+        width: 50px;
+        height: 50px;
+        left: 15%;
+        bottom:70%;
+        padding: 0;
+        border-radius: 50%;
+        background: #000;
+        animation: animation-1 2s linear infinite;
+        }
+/*nav bar*/
+.act{
+    color: var(--main-color)!important;
+    border-bottom: 2px solid var(--main-color);
+
+}
+ ul li a:hover{
+    color: var(--main-color)!important;
+    border-bottom: 2px solid var(--main-color);
+}
+.wave{
+    position: absolute;
+    bottom:0px;
+    
+}
+/*section form home page*/
+
+.form-text{
+    margin:50px;
+    padding:30px;
+}
+.form {
+    background: #FAFAFA;
+}
+.theme-text-1{
+    color:#c1c;
+}
+
+/*join us*/
+.section-join-us{
+    background: #FDFCFA;
+    background-size: cover;
+}
+/*pre-loader*/
+#preloader{
+    background: #000 url(img/cool-loading.gif) no-repeat center center;
+    position: fixed;
+    z-index: 100;
+	height: 100vh;
+    width: 100%;
+
+}
+/* Drop menu navbar */
+#navbarSupportedContent > ul > li.nav-item.dropdown > ul{
+    background: #0A1828!important;
+  
+}
+#navbarSupportedContent > ul > li.nav-item.dropdown > ul > li:nth-child(1) > a:hover{
+    background-color: #0A1828;
+}
+#navbarSupportedContent > ul > li.nav-item.dropdown > ul > li:nth-child(2) > a:hover{
+    background-color: #0A1828;
+}
