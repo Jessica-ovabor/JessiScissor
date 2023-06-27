@@ -16,7 +16,7 @@
 <!-- Project Logo -->
 <br />
 <div align="center">
-  <a href="https://sciz.site">
+  <a href="https://cutit-2rpq.onrender.com">
     <img src="app/static/img/jlogo-1.png" alt="Logo" width="30%" height="30%">
   </a>
 </div>
@@ -134,7 +134,7 @@ This tool can be accessed via the deployed site or a local copy of the project.
 
 ### Live Link
 
-Deployed site: [sciz.site](https://www.sciz.site) - hosted via [namecheap](https://www.namecheap.com) 
+Deployed site: [cutit.site](https://cutit-2rpq.onrender.com) - hosted via [render](https://www.render.com) 
 
 ### Localhost
 
