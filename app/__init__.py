@@ -3,11 +3,10 @@ from .routes import cache,limiter
 from .extensions import db,login_manager
 from .routes import url
 import os
-from dotenv import load_dotenv
+
 
 login_manager.login_view = 'url.login'
 
-load_dotenv()
 
 def create_app(config_file='settings.py'):
    app=Flask(__name__)
