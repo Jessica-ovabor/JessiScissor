@@ -11,7 +11,7 @@ load_dotenv()
 
 def create_app(config_file='settings.py'):
    app=Flask(__name__)
-   app.config['SECRET-KEY']=os.environ.get('SECRET_KEY')
+   app.config['SECRET_KEY']=os.environ.get('SECRET_KEY')
    app.config.from_pyfile(config_file)
    limiter.init_app(app)
    cache.init_app(app)
