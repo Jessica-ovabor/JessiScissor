@@ -2,15 +2,18 @@ from flask import Flask
 from .routes import cache,limiter
 from .extensions import db,login_manager
 from .routes import url
+from dotenv import load_dotenv
 import os
 
 
-login_manager.login_view = 'url.login'
 
+
+login_manager.login_view = 'url.login'
+load_dotenv()
 
 def create_app(config_file='settings.py'):
    app=Flask(__name__)
-   app.config['SECRET_KEY']=os.environ.get('SECRET_KEY')
+   app.config['SECRET_KEY']=os.getenv('SECRET_KEY')
    app.config.from_pyfile(config_file)
    limiter.init_app(app)
    cache.init_app(app)
