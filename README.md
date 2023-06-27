@@ -25,7 +25,7 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/Jessica-ovabor/scissor/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Jessica-ovabor/JessiScissor/wiki/Cutit-Documentation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#sample">View Demo</a>
@@ -203,7 +203,7 @@ Jessica ovabor - [@jovabor](https://twitter.com/Jessica-ovabor) - ovaborjessica8
 
 Project Link: [JessiScissor](https://github.com/Jessica-ovabor/JessiScissor)
 
-Live Link: [sciz.site](https://www.sciz.site)
+Live Link:  [cutit.site](https://cutit-2rpq.onrender.com)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
