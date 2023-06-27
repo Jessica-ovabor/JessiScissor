@@ -25,7 +25,7 @@
 
 <div>
   <p align="center">
-    <a href="(https://github.com/Jessica-ovabor/JessiScissor/wiki/Cutit-Documentation)"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Jessica-ovabor/JessiScissor/wiki/Cutit-Documentation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#sample">View Demo</a>
