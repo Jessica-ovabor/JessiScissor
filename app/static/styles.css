@@ -288,7 +288,7 @@ p{
 .wave{
     position: absolute;
     bottom:0px;
-    overflow-y: hidden;
+    overflow-x: hidden;
     
 }
 /*section form home page*/
