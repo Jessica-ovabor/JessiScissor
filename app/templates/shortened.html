@@ -45,7 +45,7 @@
 
                         <li class="list-group-item">
                             <b>Original URL:</b> {{original_url }}<br>
-                            <img src="{{ url_for('url.generate_qr_code_image', short_url=short_url) }}" alt="QR Code">
+                            <img src="{{ url_for('url.generate_qr_code_image', short_url=short_url) }}" alt="QR Code"><br>
                             <b>Shortened URL:</b><a href="{{ url_for('url.redirect_to_url', short_url=short_url) }}" target="_blank">{{ url_for('url.redirect_to_url', short_url=short_url, _external=True) }}</a>
                     
                     </li>
