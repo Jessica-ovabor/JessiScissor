@@ -205,6 +205,8 @@ Project Link: [JessiScissor](https://github.com/Jessica-ovabor/JessiScissor)
 
 Live Link:  [cutit.site](https://cutit-2rpq.onrender.com)
 
+Documentation: [Cutit](https://github.com/Jessica-ovabor/JessiScissor/wiki/Cutit-Documentation)
+
 <p align="right"><a href="#readme-top">back to top</a></p>
 
 ---
